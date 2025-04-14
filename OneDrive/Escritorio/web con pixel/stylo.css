@@ -34,6 +34,7 @@
       cursor: pointer;
       text-decoration: none;
       font-weight: bold;
+      margin-top: 500px;
     }
     section {
       padding: 50px 20px;
@@ -82,3 +83,4 @@
         0% { transform: translateX(0); }
         100% { transform: translateX(-50%); }
       }
+    
